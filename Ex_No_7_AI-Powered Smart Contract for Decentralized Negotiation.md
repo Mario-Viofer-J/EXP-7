@@ -1,6 +1,13 @@
 # Experiment 7: AI-Powered Smart Contract for Decentralized Negotiation
+
+```
+Name: Mario Viofer J
+Reg. No: 212223100032
+```
+
+
 # Aim:
-# To create a smart contract that integrates AI logic for automated negotiation in decentralized commerce. The contract adjusts price and conditions dynamically based on real-time market trends using an on-chain AI model.
+To create a smart contract that integrates AI logic for automated negotiation in decentralized commerce. The contract adjusts price and conditions dynamically based on real-time market trends using an on-chain AI model.
 
 # Algorithm:
 ## Step 1: AI-Powered Dynamic Pricing
@@ -101,7 +108,13 @@ If the buyer’s offer is fair, the deal is executed.
 
 
 If the offer is too low, the contract suggests a counteroffer.
+<img width="1917" height="919" alt="image" src="https://github.com/user-attachments/assets/2981cf26-e6ac-48fd-94f7-2abee057c180" />
 
+<img width="1917" height="919" alt="image" src="https://github.com/user-attachments/assets/72853553-c262-48f5-97b7-396c6b7216fb" />
+
+<img width="1915" height="926" alt="image" src="https://github.com/user-attachments/assets/bc5703e0-afb7-40c2-ad04-2b1448f32a64" />
+
+<img width="1919" height="926" alt="image" src="https://github.com/user-attachments/assets/8dfd6f99-05f8-427e-a416-6d1175a07225" />
 
 
 # High-Level Overview:
@@ -117,5 +130,5 @@ Can be extended to AI oracles for real-time market data.
 Inspired by AI-enhanced commerce and eBay-like decentralized auctions.
 
 # RESULT:
-
+Smart contract that integrates AI logic has executed successfully
 
